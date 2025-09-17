@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+.env
+
+# build outputs
+frontend/dist
+assets
+build
+.DS_Store
+dist
+
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+data.sqlite
+
